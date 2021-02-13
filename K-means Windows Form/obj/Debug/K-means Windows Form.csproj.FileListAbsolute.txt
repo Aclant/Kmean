@@ -1,0 +1,15 @@
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\bin\Debug\K-means Windows Form.exe.config
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\bin\Debug\K-means Windows Form.exe
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\bin\Debug\K-means Windows Form.pdb
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\obj\Debug\K-means Windows Form.csprojAssemblyReference.cache
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\obj\Debug\K_means_Windows_Form.Properties.Resources.resources
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\obj\Debug\K-means Windows Form.csproj.GenerateResource.cache
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\obj\Debug\K-means Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\obj\Debug\K-means Windows Form.exe
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\obj\Debug\K-means Windows Form.pdb
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\obj\Debug\K_means_Windows_Form.Form1.resources
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\bin\Debug\K-means Library.dll
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\bin\Debug\Newtonsoft.Json.dll
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\bin\Debug\K-means Library.pdb
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\grego\source\repos\K-means Windows Form\K-means Windows Form\obj\Debug\K-means Windows Form.csproj.CopyComplete

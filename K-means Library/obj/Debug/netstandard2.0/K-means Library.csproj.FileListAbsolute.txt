@@ -1,0 +1,9 @@
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\bin\Debug\netstandard2.0\K-means Library.deps.json
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\bin\Debug\netstandard2.0\K-means Library.dll
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\bin\Debug\netstandard2.0\K-means Library.pdb
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\obj\Debug\netstandard2.0\K-means Library.csprojAssemblyReference.cache
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\obj\Debug\netstandard2.0\K-means Library.AssemblyInfoInputs.cache
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\obj\Debug\netstandard2.0\K-means Library.AssemblyInfo.cs
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\obj\Debug\netstandard2.0\K-means Library.csproj.CoreCompileInputs.cache
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\obj\Debug\netstandard2.0\K-means Library.dll
+C:\Users\grego\source\repos\K-means Windows Form\K-means Library\obj\Debug\netstandard2.0\K-means Library.pdb
