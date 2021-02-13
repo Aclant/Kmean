@@ -1,0 +1,3 @@
+# Kmean
+
+As required for the exercise there is a Kmean Library that could be use via the interface to do the k mean algorithm on a table of Points.Also, there is a windows form for the visualization of the result (series# for the cluster# and centroid # for the centroid of the cluster#)There is a test File to do the basic testing on the Cluster function.For the calculation, I decided that if the Data are empty or the number of iteration is 0 or the number of Clusters is 0 to return empty tables for the results.Currently, the Library could be easily modified to add a new kind of IPoint to manage another type of Data Points.
