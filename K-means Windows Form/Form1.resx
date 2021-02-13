@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>[{"x":0.0,"y":0.0},{"x":-73.0,"y":160.0},{"x":59.0,"y":25.0},{"x":61.0,"y":36.0},{"x":35.0,"y":75.0},{"x":-74.0,"y":80.0},{"x":86.0,"y":-230.0},{"x":200.0,"y":220.0},{"x":146.0,"y":3.0},{"x":88.0,"y":-13.0},{"x":-46.0,"y":45.0},{"x":34.0,"y":15.0},{"x":68.0,"y":-57.0},{"x":57.0,"y":45.0},{"x":-68.0,"y":79.0},{"x":-98.0,"y":-34.0},{"x":66.0,"y":68.0},{"x":-8.0,"y":2.0},{"x":65.0,"y":3.0},{"x":-2.0,"y":-89.0}]</value>
+  </data>
 </root>

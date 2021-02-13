@@ -32,6 +32,7 @@ namespace K_means_Windows_Form
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -78,6 +79,7 @@ namespace K_means_Windows_Form
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(219, 240);
             this.textBox1.TabIndex = 2;
+            this.textBox1.Text = resources.GetString("textBox1.Text");
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
@@ -85,9 +87,9 @@ namespace K_means_Windows_Form
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(27, 210);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(197, 13);
+            this.label1.Size = new System.Drawing.Size(125, 13);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Write you values eg: [(1.0,2.0),(0.0,0.0)] ";
+            this.label1.Text = "Write your values in Json";
             // 
             // textBox2
             // 
@@ -95,6 +97,7 @@ namespace K_means_Windows_Form
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 4;
+            this.textBox2.Text = "3";
             this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label2
@@ -112,6 +115,7 @@ namespace K_means_Windows_Form
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 6;
+            this.textBox3.Text = "30";
             this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // label3

@@ -5736,11 +5736,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\KmeanUnitTest\\KmeanUnitTest.csproj",
+      "projectUniqueName": "D:\\Repositories\\Kmean\\KmeanUnitTest\\KmeanUnitTest.csproj",
       "projectName": "KmeanUnitTest",
-      "projectPath": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\KmeanUnitTest\\KmeanUnitTest.csproj",
+      "projectPath": "D:\\Repositories\\Kmean\\KmeanUnitTest\\KmeanUnitTest.csproj",
       "packagesPath": "C:\\Users\\grego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\KmeanUnitTest\\obj\\",
+      "outputPath": "D:\\Repositories\\Kmean\\KmeanUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5762,8 +5762,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\K-means Library\\K-means Library.csproj": {
-              "projectPath": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\K-means Library\\K-means Library.csproj"
+            "D:\\Repositories\\Kmean\\K-means Library\\K-means Library.csproj": {
+              "projectPath": "D:\\Repositories\\Kmean\\K-means Library\\K-means Library.csproj"
             }
           }
         }

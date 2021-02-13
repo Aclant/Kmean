@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+I5+Hp1SPbKU+QPz3RJKO+STzr2tdHlcIOAauZuhwiw4ZzWbmxUL4EPHwMG24geDuQkpOAFk362fSirOJ9dGQ==",
+  "dgSpecHash": "Ppy4S3D55FrgIPUe20XqSrmuwGSSjS+wuopiaEcYENngV2rynwbUiHMt10o6JBGM0PyPghZLnIXR/67nYWfYzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\K-means Library\\K-means Library.csproj",
+  "projectFilePath": "D:\\Repositories\\Kmean\\K-means Library\\K-means Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grego\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\grego\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L5JVF2ac4AcylF6Qmiz+VoyX4PaFAppqjHUOEdiGIEMRZHLfp+2y+3GeDDjzjdzhP3LSGXpv/S+4UwPBLIsytw==",
+  "dgSpecHash": "QF4gYqg38DEPxYT2N4STSHeaxEjeu1IT0+kG8SBVlRIiR18k3qf0js4QghF23T468Lb3ltIM1HKVAxFtW01GYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\Repositories\\Kmean\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\grego\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

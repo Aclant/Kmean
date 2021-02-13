@@ -187,11 +187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\K-means Library\\K-means Library.csproj",
+      "projectUniqueName": "D:\\Repositories\\Kmean\\K-means Library\\K-means Library.csproj",
       "projectName": "K-means Library",
-      "projectPath": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\K-means Library\\K-means Library.csproj",
+      "projectPath": "D:\\Repositories\\Kmean\\K-means Library\\K-means Library.csproj",
       "packagesPath": "C:\\Users\\grego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grego\\source\\repos\\K-means Windows Form\\K-means Library\\obj\\",
+      "outputPath": "D:\\Repositories\\Kmean\\K-means Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
